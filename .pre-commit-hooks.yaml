@@ -10,5 +10,6 @@
   name: cmake-lint
   description: cmake-lint will check your listfiles for style violations, common mistakes, and anti-patterns.
   entry: cmake-lint
+  args: [-c]
   language: python
   types: [cmake]
